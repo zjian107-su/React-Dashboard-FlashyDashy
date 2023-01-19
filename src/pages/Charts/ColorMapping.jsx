@@ -1,7 +1,7 @@
 import React from "react";
 
-const ColorMatching = () => {
+const ColorMapping = () => {
   return <div>ColorMatching</div>;
 };
 
-export default ColorMatching;
+export default ColorMapping;
